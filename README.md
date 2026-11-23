@@ -1,6 +1,6 @@
 # 🔍 Lost & Found Campus Portal
 
-A modern, full-stack web application designed for campus communities (built for NITK - National Institute of Technology Karnataka) to streamline reporting, browsing, and reclaiming lost and found items.
+A modern, full-stack web application designed for campus communities to streamline reporting, browsing, and reclaiming lost and found items.
 
 ---
 
